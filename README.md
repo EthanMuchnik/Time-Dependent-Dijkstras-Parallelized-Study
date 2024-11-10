@@ -1,5 +1,3 @@
-# Time Dependent Dijikstra Parallelized Study
-
 ## Goal 
 
 To model traffic using time dependent graphs/ dynamic networks and solve the time-dependent short dependent
