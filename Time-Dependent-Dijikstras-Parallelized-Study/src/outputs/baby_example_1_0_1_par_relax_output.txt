@@ -1,0 +1,7 @@
+Source: 1, Start Time: 0
+Node 1: 0
+Node 2: 1
+Node 3: 1
+Node 4: 2
+Node 5: 12
+Node 6: 13

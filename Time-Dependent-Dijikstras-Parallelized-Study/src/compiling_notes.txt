@@ -1,0 +1,12 @@
+For MPI:
+
+mpic++ -Wall -Wextra -O3 -std=c++2a -I. -c tdd_mpi.cpp -o tdd_mpi.o
+
+for openmp:
+
+g++  -Wall -O3 -std=c++17 -m64 -I. -fopenmp -Wno-unknown-pragmas tdd_par_relax.cpp -o tdd_par_relax.o
+
+for sequential:
+
+g++ -Wall -Wextra -O3 -std=c++2a -I. -c tdd_seq.cpp -o tdd_seq.o
+g++ tdd_seq.o -o tdd_seq

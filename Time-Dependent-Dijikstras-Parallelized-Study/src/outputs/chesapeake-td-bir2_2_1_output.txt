@@ -1,0 +1,79 @@
+Source: 2, Start Time: 1
+Node: 0 Time: 1
+Path: 
+Node: 1 Time: 12
+Path: 11 1 
+Node: 2 Time: 14
+Path: 38 2 
+Node: 3 Time: 6
+Path: 38 3 
+Node: 4 Time: 10
+Path: 38 4 
+Node: 5 Time: 17
+Path: 34 5 
+Node: 6 Time: 12
+Path: 38 6 
+Node: 7 Time: 14
+Path: 38 7 
+Node: 8 Time: 17
+Path: 34 8 
+Node: 9 Time: 23
+Path: 38 9 
+Node: 10 Time: 12
+Path: 34 10 
+Node: 11 Time: 11
+Path: 11 
+Node: 12 Time: 15
+Path: 38 24 35 12 
+Node: 13 Time: 14
+Path: 38 25 13 
+Node: 14 Time: 17
+Path: 38 25 14 
+Node: 15 Time: 17
+Path: 38 2 15 
+Node: 16 Time: 9
+Path: 38 16 
+Node: 17 Time: 10
+Path: 38 17 
+Node: 18 Time: 12
+Path: 38 18 
+Node: 19 Time: 17
+Path: 38 19 
+Node: 20 Time: 6
+Path: 38 20 
+Node: 21 Time: 12
+Path: 21 
+Node: 22 Time: 11
+Path: 22 
+Node: 23 Time: 22
+Path: 38 7 23 
+Node: 24 Time: 10
+Path: 38 24 
+Node: 25 Time: 11
+Path: 38 25 
+Node: 26 Time: 14
+Path: 21 26 
+Node: 27 Time: 12
+Path: 38 27 
+Node: 28 Time: 12
+Path: 38 28 
+Node: 29 Time: 10
+Path: 38 29 
+Node: 30 Time: 21
+Path: 38 30 
+Node: 31 Time: 15
+Path: 38 31 
+Node: 32 Time: 15
+Path: 38 24 35 32 
+Node: 33 Time: 10
+Path: 33 
+Node: 34 Time: 10
+Path: 34 
+Node: 35 Time: 12
+Path: 38 24 35 
+Node: 36 Time: 12
+Path: 36 
+Node: 37 Time: 20
+Path: 38 29 37 
+Node: 38 Time: 4
+Path: 38 
